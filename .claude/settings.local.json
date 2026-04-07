@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(find /data/data/com.termux/files/home/ZBrowser -type f -name *.java -o -name *.xml -o -name *.kt)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(./gradlew assembleDebug 2>&1)",
+      "Bash(chmod +x gradlew)",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(bash gradlew:*)"
+    ]
+  }
+}

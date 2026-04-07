@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#bababa</color>
+    <color name="colorPrimaryDark">#3d3d3d</color>
+    <color name="colorAccent">#9b9b9b</color>
+
+    <!-- UI colors -->
+    <color name="white">#ffffff</color>
+    <color name="light_gray">#f4f4f4</color>
+    <color name="gray">#d1d1d1</color>
+    <color name="text_gray">#606060</color>
+    <color name="hint_gray">#9f9f9f</color>
+    <color name="nav_bg">#ffffff</color>
+    <color name="nav_icon_gray">#555555</color>
+</resources>

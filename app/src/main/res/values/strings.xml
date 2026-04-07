@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZBrowser</string>
+
+    <!-- Input placeholder -->
+    <string name="input_url">Search or enter URL</string>
+
+    <!-- Home page URL -->
+    <string name="home_url">https://www.google.com/</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_left">Back</string>
+    <string name="nav_right">Forward</string>
+    <string name="nav_set">Settings</string>
+    <string name="nav_page">Tabs</string>
+    <string name="nav_home">Home</string>
+</resources>
+
